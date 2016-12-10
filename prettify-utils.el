@@ -2,13 +2,13 @@
 
 ;; Copyright © 2016 Ilazki
 
-;; Author:				Ilazki
-;; Created:				31 Oct 2016
-;; URL:					https://github.com/Ilazki/prettify-utils.el
-;; Keywords:			prettify symbols utilities utils
-;; Version:				1.0.1
-;; Package-Version:		20161110.0430
-;; Package-Requires:	((emacs "24.4"))
+;; Author:              Ilazki
+;; Created:             31 Oct 2016
+;; URL:                 https://github.com/Ilazki/prettify-utils.el
+;; Keywords:            prettify symbols utilities utils
+;; Version:             1.0.1
+;; Package-Version:     20161110.0430
+;; Package-Requires:    ((emacs "24.4"))
 
 ;; This file is not part of GNU Emacs.
 
