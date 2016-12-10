@@ -5,7 +5,7 @@
 ;; Author:              Ilazki
 ;; Created:             31 Oct 2016
 ;; URL:                 https://github.com/Ilazki/prettify-utils.el
-;; Keywords:            prettify symbols utilities utils
+;; Keywords:            lisp tools prettify utils prettify-symbols
 ;; Version:             1.0.1
 ;; Package-Version:     20161110.0430
 ;; Package-Requires:    ((emacs "24.4"))
