@@ -219,6 +219,8 @@ Example:
       (cons (prettify-utils-create-pair old-string new-string glue-list)
                    (apply 'prettify-utils-generate-f tail)))))
 
+;; Macro based on a suggestion and example code by reddit user /u/Kungsgeten
+;; Github @ https://github.com/Kungsgeten/
 ;;;###autoload
 (defmacro prettify-utils-add-hook (mode &rest lists)
   "Convenience macro for the most likely use case of prettify-utils: using
